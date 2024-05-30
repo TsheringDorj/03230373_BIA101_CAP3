@@ -1,17 +1,15 @@
 ################################
-# Github Repo link
+# https://github.com/TsheringDorj/03230373_BIA101_CAP3
 # Tshering Dorji
 # BBI"B"
 # 
 ################################
 # REFERENCES
-# Links that you referred while solving 
-# the problem
-# http://link.to.an.article/video.com 
+###https://stackoverflow.com/questions/14939953/sum-the-digits-of-a-number
+##https://www.w3resource.com/python-exercises/basic/python-basic-1-exercise-56.php
+##https://codereview.stackexchange.com/questions/135392/2-sum-problem-on-a-range-in-python###
 ################################
 # SOLUTION
-# Your Solution Score: <total sum>
-################################
 
 # Read the input.txt file
 def read_input(filename):# code here to read your input file
